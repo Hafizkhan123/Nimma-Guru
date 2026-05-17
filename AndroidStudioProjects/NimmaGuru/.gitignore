@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.keystore
+
+# IMPORTANT: Never commit these — they contain your API keys
+app/google-services.json
+local.properties

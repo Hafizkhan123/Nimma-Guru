@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nimma Guru</string>
+    <string name="find_guru">Find a Guru</string>
+    <string name="my_profile">My Profile</string>
+    <string name="calendar">Calendar</string>
+    <string name="wall_of_fame">Wall of Fame</string>
+    <string name="say_thank_you">Say Thank You</string>
+    <string name="generate_bio">Generate Bio with AI</string>
+    <string name="sign_in">Sign in with Google</string>
+    <string name="add_session">Add Session</string>
+    <string name="search_hint">Search Gurus...</string>
+    <!--  IMPORTANT: Replace with your actual Web Client ID from Firebase Console  -->
+    <string name="default_web_client_id">551313167247-dueh5usoj10ns14d60t28h0l165lcq2c.apps.googleusercontent.com</string>
+</resources>
+
+
+
+
+
+
